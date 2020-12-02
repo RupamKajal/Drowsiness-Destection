@@ -1,4 +1,4 @@
-# Drowsiness-Destection
+# Drowsiness-Detection
 A drowsy detection and alarming system using ML technology.
 My drowsiness detector hinged on two important computer vision techniques:
 
